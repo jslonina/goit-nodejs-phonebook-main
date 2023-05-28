@@ -1,0 +1,28 @@
+{
+  "name": "goit-nodejs-phonebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoloMasta/goit-nodejs-phonebook.git"
+  },
+  "keywords": [],
+  "author": "John Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoloMasta/goit-nodejs-phonebook/issues"
+  },
+  "homepage": "https://github.com/BoloMasta/goit-nodejs-phonebook#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
