@@ -1,5 +1,5 @@
 {
-  "name": "goit-nodejs-phonebook",
+  "name": "goit-nodejs-phonebook-main",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BoloMasta/goit-nodejs-phonebook.git"
+    "url": "git+https://github.com/jslonina/goit-nodejs-phonebook-main.git"
   },
   "keywords": [],
   "author": "John Doe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BoloMasta/goit-nodejs-phonebook/issues"
+    "url": "https://github.com/jslonina/goit-nodejs-phonebook-main/issues"
   },
-  "homepage": "https://github.com/BoloMasta/goit-nodejs-phonebook#readme",
+  "homepage": "https://github.com/jslonina/goit-nodejs-phonebook-main#readme",
   "dependencies": {
     "commander": "^10.0.0"
   },

@@ -3,13 +3,13 @@
 Links to screenshots:
 
 action list:
-https://github.com/BoloMasta/goit-nodejs-phonebook/blob/main/screenshots/action%20list.jpg?raw=true
+https://github.com/jslonina/goit-nodejs-phonebook-main/blob/main/screenshot/zad1.jpg
 
 action get:
-https://github.com/BoloMasta/goit-nodejs-phonebook/blob/main/screenshots/action%20get.jpg?raw=true
+https://github.com/jslonina/goit-nodejs-phonebook-main/blob/main/screenshot/zad2.jpg
 
 action add:
-https://github.com/BoloMasta/goit-nodejs-phonebook/blob/main/screenshots/action%20add.jpg?raw=true
+https://github.com/jslonina/goit-nodejs-phonebook-main/blob/main/screenshot/zad3.jpg
 
 action remove:
-https://github.com/BoloMasta/goit-nodejs-phonebook/blob/main/screenshots/action%20remove.jpg?raw=true
+https://github.com/jslonina/goit-nodejs-phonebook-main/blob/main/screenshot/zad4.jpg
